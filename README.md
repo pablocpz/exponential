@@ -11,9 +11,9 @@ I ship full-stack products that blend language-model agents, real-time data pipe
 
 | Project | Demo | Code |
 |---------|------|------|
-| **RAI – Personalized Voice News Reporter**<br>Weekly phone call that narrates tailored news and answers live questions via RAG (Twilio Voice + ElevenLabs). | [Video ↗](https://youtu.be/your-rai-demo) | [Repo ↗](https://github.com/pablocpz/RAI-ai-personalized-voice-news-reporter) |
-| **Real-time Spanish Electricity Dashboard**<br>Streamlit app that visualises generation & price data, plus SHAP-explained forecasting. | [Live app ↗](https://energia-dashboard.streamlit.app) | [Repo ↗](https://github.com/pablocpz/electricity-market-dashboard) |
-| **Neural Networks From Scratch Workbook**<br>Hand-coded forward/back-prop with GIF animations for intuitive learning. | [Notebook tour ↗](https://youtu.be/your-nn-tour) | [Repo ↗](https://github.com/pablocpz/core-of-deep-learning-for-dummies) |
+| **RAI – Personalized Voice News Reporter**<br>Weekly phone call that narrates tailored news and answers live questions via RAG (Twilio Voice + ElevenLabs). | [Demo thread ↗](https://x.com/pablocpz_ai/status/1876669029961843019) | [Repo ↗](https://github.com/pablocpz/RAI-ai-personalized-voice-news-reporter) |
+| **Real-time Spanish Electricity Dashboard**<br>Streamlit app that visualises generation & price data, plus SHAP-explained forecasting. | [Live app ↗](https://live-electricity-dashboard.streamlit.app/) | [Repo ↗](https://github.com/pablocpz/Streamlit-ESIOS-REE-Dashboard) |
+| **Neural Networks From Scratch Workbook**<br>Hand-coded forward/back-prop with GIF animations for intuitive learning. | [Medium overview ↗](https://medium.com/@pablocpzz.ai/an-ilustrated-guide-with-code-of-a-neural-network-regression-made-from-scratch-352b01059042) | [Repo ↗](https://github.com/pablocpz/ilustrated-guide-with-code-neural-network-from-scratch) |
 
 ## 🏆 Highlights
 • 2× Emergent Ventures Fellow – travel & project grants totalling **$7 000**.  
