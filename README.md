@@ -24,4 +24,4 @@ I ship full-stack products that blend language-model agents, real-time data pipe
 • Twitter — [@pablocpz_ai](https://twitter.com/pablocpz_ai)  
 • LinkedIn — [linkedin.com/in/pablo-cobo-perez](https://www.linkedin.com/in/pablo-cobo-perez/)  
 • GitHub — [github.com/pablocpz](https://github.com/pablocpz)  
-• Personal site (WIP) — https://pablocobo.dev
+• Personal site (Last Edit: 2024) — [Old Website](https://pablocpz.github.io/)
