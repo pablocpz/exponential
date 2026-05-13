@@ -1,7 +1,14 @@
 # 🚀 Exponential Launchpad Profile
 
 Hi, I’m **Pablo Cobo Pérez** — 18-year-old **AI & Data engineer** from Córdoba, Spain, previously first employee at Kortix.ai and Hirevoice.
-I ship full-stack products that blend language-model agents, real-time data pipelines and polished user experiences.
+I ship full-stack products that blend language-model agents, computer-vision pipelines and real-time data into polished user experiences.
+
+### What I build & use
+- ✨ AI agents for customer support, news narration, recruiting and more — wired up with Twilio/LiveKit for voice & video and ElevenLabs TTS.
+- 📸 Computer-vision models (YOLOv5/8, FaceNet) for face detection, LiDAR room scans and real-world geometry extraction.
+- 📊 Data cleaning, feature engineering and predictive modelling (tree ensembles, XGBoost, classic ML) with clear SHAP explainability dashboards.
+- 🔥 Deep-learning research in PyTorch — from activation-function experiments to PPO fine-tuning of LLMs.
+
 
 | 🛠️ Core Stack | 🧠 ML / AI | 🌐 Web UI | ☁️ DevOps / Infra |
 |---------------|-----------|-----------|------------------|
